@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-12-05 14:57:19">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<application_name>AI Documentation Manager</application_name>
+<application_scope>x_804599_ai_docu_0</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>An application designed to automate the creation, update, and maintenance of technical documentation using Now Assist. It integrates with external sources such as Azure DevOps or Confluence, allowing AI-driven generation, correction, and validation of documentation. The app provides structured data models, flows, and interfaces to manage docume</description>
+<inserted/>
+<name>AI Documentation Manager</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>5f1948c347a13210625f995b116d43da</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>09398cc347a13210625f995b116d4354</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_file_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="file_name" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>File Name</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>file_name</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>38a0c08347613210625f995b116d43a6</sys_id><sys_name>File Name</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_file_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1786749737</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>01398cc347a13210625f995b116d4358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04224e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.File Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_last_sync_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="last_sync" label="Last Sync" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>last_sync</element><help/><hint/><label>Last Sync</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f4a0c08347613210625f995b116d4375</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Last Sync</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_last_sync_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:55</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1137659490</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0139ccc347a13210625f995b116d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421cb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Last Sync</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3fdd3f3e47213210625f995b116d433c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>3fdd3f3e47213210625f995b116d433c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_3fdd3f3e47213210625f995b116d433c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1018147193</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0139ccc347a13210625f995b116d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421130000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_7addbb3e47213210625f995b116d435b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="7addbb3e47213210625f995b116d435b" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:47:22</sys_created_on><sys_id>6be6c0cf47613210625f995b116d4311</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:47:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:47:22</sys_created_on><sys_id>e7e6c0cf47613210625f995b116d4312</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:47:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:47:22</sys_created_on><sys_id>67e6c0cf47613210625f995b116d4313</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:47:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:47:22</sys_created_on><sys_id>e3e6c0cf47613210625f995b116d4314</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:47:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:47:22</sys_created_on><sys_id>63e6c0cf47613210625f995b116d4315</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:47:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7addbb3e47213210625f995b116d435b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_section_7addbb3e47213210625f995b116d435b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:43</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1986395738</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0139ccc347a13210625f995b116d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420e20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_page_path</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="page_path" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Page Path</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>page_path</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f8a0c08347613210625f995b116d43a0</sys_id><sys_name>Page Path</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_page_path</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>324887959</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>05398cc347a13210625f995b116d4359</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Page Path</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_status_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="status" label="Status" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>status</element><help/><hint/><label>Status</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>b0a0c08347613210625f995b116d439e</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Status</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_status_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1381924077</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0539ccc347a13210625f995b116d43ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04229d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Status</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_3bddfb3e47213210625f995b116d43f9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>3bddfb3e47213210625f995b116d43f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">6fddfb3e47213210625f995b116d43cb</sys_security_acl><sys_update_name>sys_security_acl_role_3bddfb3e47213210625f995b116d43f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.admin" name="x_804599_ai_docu_0.admin">e486bbe547e53210625f995b116d43cc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>121719276</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0539ccc347a13210625f995b116d43f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421090000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_title</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="title" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Title</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>title</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>34a0c08347613210625f995b116d438f</sys_id><sys_name>Title</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_title</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-992561417</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>09398cc347a13210625f995b116d435a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Title</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_wiki_type_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="wiki_type" label="Wiki Type" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>wiki_type</element><help/><hint/><label>Wiki Type</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f8a0c08347613210625f995b116d438c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Wiki Type</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_wiki_type_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-397713155</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0939ccc347a13210625f995b116d43ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04220d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Wiki Type</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_bfdd3f3e47213210625f995b116d431e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>bfdd3f3e47213210625f995b116d431e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">7fdd3f3e47213210625f995b116d4300</sys_security_acl><sys_update_name>sys_security_acl_role_bfdd3f3e47213210625f995b116d431e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.admin" name="x_804599_ai_docu_0.admin">e486bbe547e53210625f995b116d43cc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1383666165</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0939ccc347a13210625f995b116d43f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421560000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_ai_generated_content_preview</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="ai_generated_content_preview" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Ai Generated Content Preview</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>ai_generated_content_preview</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="HTML">html</internal_type><mandatory>false</mandatory><max_length>65536</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>true</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:41</sys_created_on><sys_id>e432c44747613210625f995b116d4303</sys_id><sys_name>Ai Generated Content Preview</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_ai_generated_content_preview</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1390314008</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0d398cc347a13210625f995b116d4356</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Ai Generated Content Preview</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_azure_organization_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="azure_organization" label="Azure Organization" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>azure_organization</element><help/><hint/><label>Azure Organization</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>bca0c08347613210625f995b116d4386</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Azure Organization</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_azure_organization_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1680701281</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0d398cc347a13210625f995b116d435b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Azure Organization</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_number_16dd7b3e47213210625f995b116d43f6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_804599_ai_docu_0_documentation_item">x_804599_ai_docu_0_documentation_item</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>DOCIT</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:42</sys_created_on><sys_id>16dd7b3e47213210625f995b116d43f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DOCIT</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_number_16dd7b3e47213210625f995b116d43f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:42</sys_updated_on></sys_number></record_update>]]></payload>
+<payload_hash>-56610903</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0d39ccc347a13210625f995b116d43ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420af0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>DOCIT</target_name>
+<type>Number</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_3032c44747613210625f995b116d4350</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Identification" section_id="3032c44747613210625f995b116d4350" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>title</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>8532c44747613210625f995b116d43aa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Identification" display_value="Identification" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3032c44747613210625f995b116d4350</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>file_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>4132c44747613210625f995b116d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Identification" display_value="Identification" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3032c44747613210625f995b116d4350</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>0d32c44747613210625f995b116d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Identification" display_value="Identification" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3032c44747613210625f995b116d4350</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Identification</caption><header>false</header><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3032c44747613210625f995b116d4350</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_section_3032c44747613210625f995b116d4350</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1979640990</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>0d39ccc347a13210625f995b116d43f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423090000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_azure_organization</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="azure_organization" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Azure Organization</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>azure_organization</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>b8a0c08347613210625f995b116d4383</sys_id><sys_name>Azure Organization</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_azure_organization</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>597093479</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>41398cc347a13210625f995b116d4357</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04227f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Azure Organization</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_azure_project_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="azure_project" label="Azure Project" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>azure_project</element><help/><hint/><label>Azure Project</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>70a0c08347613210625f995b116d4381</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Azure Project</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_azure_project_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>223324639</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>41398cc347a13210625f995b116d435c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422650000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Azure Project</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_fb64008b47613210625f995b116d4305</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_804599_ai_docu_0.AiDocManage_Core&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;Include core da aplicação. Responsável por chamar o Now Assist, Gerar a revisão da documentação, Atualizar via API&amp;#13;
+&lt;/description&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;AiDocManage_Core&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var AiDocManage_Core = Class.create();
+AiDocManage_Core.prototype = {
+    initialize: function() {
+    },
+
+	// Futura função para análise do documento pelo Now Assist
+    analyzeDocumentation: function(text) {
+        // placeholder
+        return "";
+    },
+
+    // Futura integração para upload da Wiki no Azure
+    updateAzureWiki: function(record) {
+        // placeholder
+        return false;
+    },
+
+    // Futura função para formatação de markdowns
+    formatMarkdown: function(raw) {
+        // placeholder
+        return raw;
+    },
+
+    type: 'AiDocManage_Core'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-12-05 14:41:52&lt;/sys_created_on&gt;&lt;sys_id&gt;fb64008b47613210625f995b116d4305&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;AiDocManage_Core&lt;/sys_name&gt;&lt;sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0"&gt;ec86bbe547e53210625f995b116d43ac&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="AI Documentation Manager"&gt;ec86bbe547e53210625f995b116d43ac&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_fb64008b47613210625f995b116d4305&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-12-05 14:41:52&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1561531968</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4139ccc347a13210625f995b116d43ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423830000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>AiDocManage_Core</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_3432c44747613210625f995b116d4355</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Sync Info" section_id="3432c44747613210625f995b116d4355" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>last_sync</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>c932c44747613210625f995b116d43c2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Sync Info" display_value="Sync Info" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3432c44747613210625f995b116d4355</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sync_error</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>8532c44747613210625f995b116d43c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Sync Info" display_value="Sync Info" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3432c44747613210625f995b116d4355</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Sync Info</caption><header>false</header><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3432c44747613210625f995b116d4355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_section_3432c44747613210625f995b116d4355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-567290142</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4139ccc347a13210625f995b116d43f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04231a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_last_sync</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="last_sync" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Last Sync</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>last_sync</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>3ca0c08347613210625f995b116d4365</sys_id><sys_name>Last Sync</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_last_sync</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:54</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>994022182</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>45398cc347a13210625f995b116d4358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04218a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Last Sync</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_number_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="number" label="Number" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>number</element><help/><hint/><label>Number</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural>Numbers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:42</sys_created_on><sys_id>eeddbb3e47213210625f995b116d4302</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_number_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:42</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1892451632</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4539ccc347a13210625f995b116d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420cf0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Number</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6fddfb3e47213210625f995b116d43cb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>6fddfb3e47213210625f995b116d43cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_6fddfb3e47213210625f995b116d43cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1930432677</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4539ccc347a13210625f995b116d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04211c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_6086bbe547e53210625f995b116d43f1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_804599_ai_docu_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 16:23:13</sys_created_on><sys_id>6086bbe547e53210625f995b116d43f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0.user</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_user_role_6086bbe547e53210625f995b116d43f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 16:23:13</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>271882752</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4539ccc347a13210625f995b116d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420710000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>x_804599_ai_docu_0.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_short_description</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="short_description" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Short Description</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>short_description</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>30a0c08347613210625f995b116d4378</sys_id><sys_name>Short Description</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_short_description</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:55</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1707461033</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>49398cc347a13210625f995b116d4359</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421b20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Short Description</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_sync_error_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="sync_error" label="Sync Error" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>sync_error</element><help/><hint/><label>Sync Error</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>74a0c08347613210625f995b116d4398</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Sync Error</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_sync_error_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:54</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>579435554</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4939ccc347a13210625f995b116d43ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421a20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Sync Error</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_7bdd3f3e47213210625f995b116d4328</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>7bdd3f3e47213210625f995b116d4328</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.user</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">3bdd3f3e47213210625f995b116d430a</sys_security_acl><sys_update_name>sys_security_acl_role_7bdd3f3e47213210625f995b116d4328</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.user" name="x_804599_ai_docu_0.user">6086bbe547e53210625f995b116d43f1</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1018524328</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4939ccc347a13210625f995b116d43f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421270000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_804599_ai_docu_0_documentation_item_status</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="status" table="x_804599_ai_docu_0_documentation_item" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>status</element><name>x_804599_ai_docu_0_documentation_item</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:58</sys_created_on><sys_id>cea0448347613210625f995b116d43ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>status</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_choice_x_804599_ai_docu_0_documentation_item_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>New</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>0</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c6a0448347613210625f995b116d43ed</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on><value>new</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>In Revision</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>1</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>06a0848347613210625f995b116d4315</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on><value>in_revision</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Published</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>2</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8aa0848347613210625f995b116d4316</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on><value>published</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>status</element><hint/><inactive>false</inactive><label>Retired</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>3</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>02a0848347613210625f995b116d4318</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:58</sys_updated_on><value>retired</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>838144361</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4d398cc347a13210625f995b116d4355</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422c60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Status</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_wiki_identifier</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="wiki_identifier" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Wiki Identifier</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>wiki_identifier</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f0a0808347613210625f995b116d43ea</sys_id><sys_name>Wiki Identifier</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_wiki_identifier</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1645173801</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4d398cc347a13210625f995b116d435a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421e70000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Wiki Identifier</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Documentation Item" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Documentation Item</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural>Documentation Items</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:41</sys_created_on><sys_id>92dd7b3e47213210625f995b116d43ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Documentation Item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:41</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1662280914</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4d39ccc347a13210625f995b116d43ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04209d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_f3dd3f3e47213210625f995b116d4301</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>f3dd3f3e47213210625f995b116d4301</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.user</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">e3ddfb3e47213210625f995b116d43ea</sys_security_acl><sys_update_name>sys_security_acl_role_f3dd3f3e47213210625f995b116d4301</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.user" name="x_804599_ai_docu_0.user">6086bbe547e53210625f995b116d43f1</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-808254779</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>4d39ccc347a13210625f995b116d43f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_x_804599_ai_docu_0_documentation_item_wiki_type</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="wiki_type" table="x_804599_ai_docu_0_documentation_item" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>wiki_type</element><name>x_804599_ai_docu_0_documentation_item</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:56</sys_created_on><sys_id>f9a0448347613210625f995b116d4333</sys_id><sys_mod_count>0</sys_mod_count><sys_name>wiki_type</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_choice_x_804599_ai_docu_0_documentation_item_wiki_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>wiki_type</element><hint/><inactive>false</inactive><label>Project Wiki</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>0</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f1a0448347613210625f995b116d4333</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><value>project_wiki</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>wiki_type</element><hint/><inactive>false</inactive><label>Code Wiki</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><sequence>1</sequence><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f1a0448347613210625f995b116d4336</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><value>code_wiki</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>1776955244</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>81398cc347a13210625f995b116d4356</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422200000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Wiki Type</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_wiki_type</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="wiki_type" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>3</choice><choice_field/><choice_table/><column_label>Wiki Type</column_label><comments/><create_roles/><default_value>project_wiki</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>wiki_type</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f4a0c08347613210625f995b116d4389</sys_id><sys_name>Wiki Type</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_wiki_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1120766510</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>81398cc347a13210625f995b116d435b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421fe0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Wiki Type</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_2886bbe547e53210625f995b116d43f3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="x_804599_ai_docu_0.user" name="x_804599_ai_docu_0.user">6086bbe547e53210625f995b116d43f1</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 16:23:13</sys_created_on><sys_id>2886bbe547e53210625f995b116d43f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6086bbe547e53210625f995b116d43f1</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_embedded_help_role_2886bbe547e53210625f995b116d43f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 16:23:13</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>2092269248</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8139ccc347a13210625f995b116d43ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>6086bbe547e53210625f995b116d43f1</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_form_sections_7c32c44747613210625f995b116d4356</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="7c32c44747613210625f995b116d4356" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f832c44747613210625f995b116d4369</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_804599_ai_docu_0_documentation_item" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7c32c44747613210625f995b116d4356</sys_ui_form><sys_ui_section caption="NULL" display_value="" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7addbb3e47213210625f995b116d435b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3432c44747613210625f995b116d436b</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_804599_ai_docu_0_documentation_item" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7c32c44747613210625f995b116d4356</sys_ui_form><sys_ui_section caption="Identification" display_value="Identification" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3032c44747613210625f995b116d4350</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7832c44747613210625f995b116d437e</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_804599_ai_docu_0_documentation_item" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7c32c44747613210625f995b116d4356</sys_ui_form><sys_ui_section caption="Documentation Content" display_value="Documentation Content" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3c32c44747613210625f995b116d4351</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7832c44747613210625f995b116d4385</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_804599_ai_docu_0_documentation_item" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7c32c44747613210625f995b116d4356</sys_ui_form><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3832c44747613210625f995b116d4399</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_804599_ai_docu_0_documentation_item" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">7c32c44747613210625f995b116d4356</sys_ui_form><sys_ui_section caption="Sync Info" display_value="Sync Info" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3432c44747613210625f995b116d4355</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7c32c44747613210625f995b116d4356</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_form_sections_7c32c44747613210625f995b116d4356</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+<payload_hash>-265672815</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8139ccc347a13210625f995b116d43f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423640000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Sections</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_azure_project</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="azure_project" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Azure Project</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>azure_project</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>7ca0c08347613210625f995b116d437d</sys_id><sys_name>Azure Project</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_azure_project</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>2004454743</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>85398cc347a13210625f995b116d4357</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422730000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Azure Project</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_content_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="content" label="Content" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>content</element><help/><hint/><label>Content</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>f0a0c08347613210625f995b116d4363</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Content</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_content_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1504965902</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8539ccc347a13210625f995b116d43ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421ee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Content</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_33dd3f3e47213210625f995b116d4325</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>33dd3f3e47213210625f995b116d4325</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_33dd3f3e47213210625f995b116d4325</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1375896587</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8539ccc347a13210625f995b116d43ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420ee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_3832c44747613210625f995b116d4353</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Azure Devops Settings" section_id="3832c44747613210625f995b116d4353" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>azure_organization</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>c932c44747613210625f995b116d43b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>wiki_type</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>8532c44747613210625f995b116d43b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>page_path</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>4132c44747613210625f995b116d43ba</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>0d32c44747613210625f995b116d43ba</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>azure_project</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>c532c44747613210625f995b116d43bb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>wiki_identifier</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>8132c44747613210625f995b116d43bc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Azure Devops Settings" display_value="Azure Devops Settings" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3832c44747613210625f995b116d4353</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Azure Devops Settings</caption><header>false</header><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3832c44747613210625f995b116d4353</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_section_3832c44747613210625f995b116d4353</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1878408892</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8539ccc347a13210625f995b116d43f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04232e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:41</sys_created_on><sys_id>52dd7b3e47213210625f995b116d43b7</sys_id><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:41</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1175571028</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>89398cc347a13210625f995b116d4358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_page_path_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="page_path" label="Page Path" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>page_path</element><help/><hint/><label>Page Path</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>fca0c08347613210625f995b116d43a3</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Page Path</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_page_path_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2026181137</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8939ccc347a13210625f995b116d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422280000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Page Path</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_7fdd3f3e47213210625f995b116d4300</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>7fdd3f3e47213210625f995b116d4300</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_7fdd3f3e47213210625f995b116d4300</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1875093775</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8939ccc347a13210625f995b116d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421370000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_e486bbe547e53210625f995b116d43cc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_804599_ai_docu_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 16:23:13</sys_created_on><sys_id>e486bbe547e53210625f995b116d43cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0.admin</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_user_role_e486bbe547e53210625f995b116d43cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 16:23:13</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1974698754</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8939ccc347a13210625f995b116d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04207c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>x_804599_ai_docu_0.admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_status</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="status" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>3</choice><choice_field/><choice_table/><column_label>Status</column_label><comments/><create_roles/><default_value>new</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>status</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>bca0c08347613210625f995b116d439a</sys_id><sys_name>Status</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-576319666</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8d398cc347a13210625f995b116d4359</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Status</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_title_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="title" label="Title" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>title</element><help/><hint/><label>Title</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>38a0c08347613210625f995b116d4392</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Title</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_title_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>585924623</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8d39ccc347a13210625f995b116d43ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0422410000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Title</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_7fdd3f3e47213210625f995b116d435a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:48</sys_created_on><sys_id>7fdd3f3e47213210625f995b116d435a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">3fdd3f3e47213210625f995b116d433c</sys_security_acl><sys_update_name>sys_security_acl_role_7fdd3f3e47213210625f995b116d435a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:48</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.admin" name="x_804599_ai_docu_0.admin">e486bbe547e53210625f995b116d43cc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>43739233</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>8d39ccc347a13210625f995b116d43f1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04217f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_sync_error</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="sync_error" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Sync Error</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>sync_error</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>200</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>70a0c08347613210625f995b116d4395</sys_id><sys_name>Sync Error</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_sync_error</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:54</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-28026584</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c1398cc347a13210625f995b116d435a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Sync Error</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_wiki_identifier_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="wiki_identifier" label="Wiki Identifier" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>wiki_identifier</element><help/><hint/><label>Wiki Identifier</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>b4a0c08347613210625f995b116d435d</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Wiki Identifier</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_wiki_identifier_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:56</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1955961838</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c139ccc347a13210625f995b116d43ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421de0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Wiki Identifier</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_bbdd3f3e47213210625f995b116d4336</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>bbdd3f3e47213210625f995b116d4336</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_security_acl display_value="x_804599_ai_docu_0_documentation_item">33dd3f3e47213210625f995b116d4325</sys_security_acl><sys_update_name>sys_security_acl_role_bbdd3f3e47213210625f995b116d4336</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><sys_user_role display_value="x_804599_ai_docu_0.admin" name="x_804599_ai_docu_0.admin">e486bbe547e53210625f995b116d43cc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>453399969</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c139ccc347a13210625f995b116d43f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421450000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item.x_804599_ai_docu_0.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_d6dd7b3e47213210625f995b116d43b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Documentation Item</label><live_feed_enabled>false</live_feed_enabled><name>x_804599_ai_docu_0_documentation_item</name><number_ref display_value="DOCIT">16dd7b3e47213210625f995b116d43f6</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:41</sys_created_on><sys_id>d6dd7b3e47213210625f995b116d43b1</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Documentation Item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_db_object_d6dd7b3e47213210625f995b116d43b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:48:15</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1746786189</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c5398cc347a13210625f995b116d4356</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04238f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_ai_generated_content_preview_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="ai_generated_content_preview" label="Ai Generated Content Preview" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>ai_generated_content_preview</element><help/><hint/><label>Ai Generated Content Preview</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:41</sys_created_on><sys_id>6032c44747613210625f995b116d4307</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Ai Generated Content Preview</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_ai_generated_content_preview_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1915395501</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c5398cc347a13210625f995b116d435b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423480000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Ai Generated Content Preview</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_ec86bbe547e53210625f995b116d43d2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>10</order><role display_value="x_804599_ai_docu_0.admin" name="x_804599_ai_docu_0.admin">e486bbe547e53210625f995b116d43cc</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 16:23:13</sys_created_on><sys_id>ec86bbe547e53210625f995b116d43d2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e486bbe547e53210625f995b116d43cc</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_embedded_help_role_ec86bbe547e53210625f995b116d43d2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 16:23:13</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>30139426</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c539ccc347a13210625f995b116d43ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420870000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>e486bbe547e53210625f995b116d43cc</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_x_804599_ai_docu_0_documentation_item_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>3ab70c0347a13210625f995b116d43db</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>status</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>beb70c0347a13210625f995b116d43db</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>title</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>36b70c0347a13210625f995b116d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>file_name</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>bab70c0347a13210625f995b116d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>azure_organization</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>32b70c0347a13210625f995b116d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>azure_project</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>b6b70c0347a13210625f995b116d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>page_path</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>3eb70c0347a13210625f995b116d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>last_sync</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>b2b70c0347a13210625f995b116d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_on</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>3ab70c0347a13210625f995b116d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_created_by</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>beb70c0347a13210625f995b116d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>36b70c0347a13210625f995b116d43df</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_by</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>bab70c0347a13210625f995b116d43df</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_mod_count</element><list_id display_value="x_804599_ai_docu_0_documentation_item" element="NULL" name="x_804599_ai_docu_0_documentation_item" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b6b70c0347a13210625f995b116d43da</list_id><max_value>false</max_value><min_value>false</min_value><position>12</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_id>32b70c0347a13210625f995b116d43e0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_804599_ai_docu_0_documentation_item</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:50:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b6b70c0347a13210625f995b116d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_list_x_804599_ai_docu_0_documentation_item_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:50:52</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>1133204575</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c539ccc347a13210625f995b116d43f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0423bb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_content</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="content" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Content</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>content</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="HTML">html</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>fca0c08347613210625f995b116d435f</sys_id><sys_name>Content</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_content</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:55</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-746038586</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c9398cc347a13210625f995b116d4357</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Content</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_file_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="file_name" label="File Name" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>file_name</element><help/><hint/><label>File Name</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>3ca0c08347613210625f995b116d43a9</sys_id><sys_mod_count>3</sys_mod_count><sys_name>File Name</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_file_name_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:57</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-718430632</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c939ccc347a13210625f995b116d43ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04225d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.File Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3bdd3f3e47213210625f995b116d430a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>3bdd3f3e47213210625f995b116d430a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_3bdd3f3e47213210625f995b116d430a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1375896587</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c939ccc347a13210625f995b116d43ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420f90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_3c32c44747613210625f995b116d4351</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Documentation Content" section_id="3c32c44747613210625f995b116d4351" sys_domain="global" table="x_804599_ai_docu_0_documentation_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>content</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>cd32c44747613210625f995b116d43b1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Documentation Content" display_value="Documentation Content" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3c32c44747613210625f995b116d4351</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ai_generated_content_preview</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:43</sys_created_on><sys_id>8932c44747613210625f995b116d43b2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Documentation Content" display_value="Documentation Content" name="x_804599_ai_docu_0_documentation_item" sys_domain="global" view="Default view">3c32c44747613210625f995b116d4351</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Documentation Content</caption><header>false</header><name>x_804599_ai_docu_0_documentation_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:26:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3c32c44747613210625f995b116d4351</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_overrides/><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_ui_section_3c32c44747613210625f995b116d4351</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:26:42</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1611960217</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>c939ccc347a13210625f995b116d43f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef04233e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_ec86bbe547e53210625f995b116d43ac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>AES</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>AI Documentation Manager</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_804599_ai_docu_0</scope><scoped_administration>false</scoped_administration><short_description>An application designed to automate the creation, update, and maintenance of technical documentation using Now Assist. It integrates with external sources such as Azure DevOps or Confluence, allowing AI-driven generation, correction, and validation of documentation. The app provides structured data models, flows, and interfaces to manage docume</short_description><source>x_804599_ai_docu_0</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-01 16:23:13</sys_created_on><sys_id>ec86bbe547e53210625f995b116d43ac</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-01 16:23:13</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app><sys_translated_text action="delete_multiple" query="documentkey=ec86bbe547e53210625f995b116d43ac"/></record_update>]]></payload>
+<payload_hash>903397873</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>cd398cc347a13210625f995b116d4354</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420560000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>AI Documentation Manager</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_804599_ai_docu_0_documentation_item_number</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_804599_ai_docu_0_documentation_item"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Number</column_label><comments/><create_roles/><default_value>javascript:global.getNextObjNumberPadded();</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>number</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_804599_ai_docu_0_documentation_item</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:42</sys_created_on><sys_id>e6dd7b3e47213210625f995b116d43ff</sys_id><sys_name>Number</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_dictionary_x_804599_ai_docu_0_documentation_item_number</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:42</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-2062025907</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>cd398cc347a13210625f995b116d4358</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420c60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_804599_ai_docu_0_documentation_item_short_description_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="short_description" label="Short Description" language="en" table="x_804599_ai_docu_0_documentation_item"><sys_documentation action="INSERT_OR_UPDATE"><element>short_description</element><help/><hint/><label>Short Description</label><language>en</language><name>x_804599_ai_docu_0_documentation_item</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:19:53</sys_created_on><sys_id>34a0c08347613210625f995b116d437b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Short Description</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_documentation_x_804599_ai_docu_0_documentation_item_short_description_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:19:55</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1824967567</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>cd39ccc347a13210625f995b116d43eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421c30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>Documentation Item.Short Description</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e3ddfb3e47213210625f995b116d43ea</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_804599_ai_docu_0_documentation_item</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:47</sys_created_on><sys_id>e3ddfb3e47213210625f995b116d43ea</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>sys_security_acl_e3ddfb3e47213210625f995b116d43ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:47</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1875093775</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>cd39ccc347a13210625f995b116d43f0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0421690000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table>x_804599_ai_docu_0_documentation_item</table>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_d6dd7b3e47213210625f995b116d43ec</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_804599_ai_docu_0_documentation_item</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-05 14:07:42</sys_created_on><sys_id>d6dd7b3e47213210625f995b116d43ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_804599_ai_docu_0_documentation_item</sys_name><sys_package display_value="AI Documentation Manager" source="x_804599_ai_docu_0">ec86bbe547e53210625f995b116d43ac</sys_package><sys_policy/><sys_scope display_value="AI Documentation Manager">ec86bbe547e53210625f995b116d43ac</sys_scope><sys_update_name>ua_table_licensing_config_d6dd7b3e47213210625f995b116d43ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-05 14:07:42</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-358969463</payload_hash>
+<remote_update_set display_value="AI Documentation Manager">09398cc347a13210625f995b116d4354</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-12-05 14:57:18</sys_created_on>
+<sys_id>cd39ccc347a13210625f995b116d43f5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19aef0420b80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-12-05 14:57:18</sys_updated_on>
+<table/>
+<target_name>x_804599_ai_docu_0_documentation_item</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
